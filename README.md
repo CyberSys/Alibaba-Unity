@@ -21,11 +21,11 @@ To get started you will first need to fetch your Application ID, which can be fo
 
 You can select any model for your application. Nevertheless, I recommend using an OpenSource Model if they are available (Time-limited Free Trial).
 
-![](/AlibabaImages/AlibabaModelStudio.JPG)
+![](/AlibabaImages/SelectModel.JPG)
 
-Currently, the Qwen2.5 Series is on Free Trial (Please, confirm they are on Free Trial before using it). 
+Currently, the Qwen2.5 Series is on Free Trial (Please, double check the model is on Free Trial before using it; otherwise you might be charged). 
 
-![](/AlibabaImages/AlibabaModelStudio.JPG)
+![](/AlibabaImages/QwenModel.JPG)
 
 ### Step 2: Inside your Alibaba Cloud account, create an API key
 To continue you will need to fetch your API key, which can be found in your account under `API-KEY` (or through [this direct link](https://bailian.console.alibabacloud.com/?apiKey=1)). Here, you can create a new API KEY (you will need this API KEY for the next step too).
@@ -55,9 +55,9 @@ There is an `Example` folder that contains a `Chat` scene. You can use this scen
 
 ![](/AlibabaImages/ChatScene.JPG)
 
-You must purchase credits in your Alibaba Cloud account to use the API. Nevertheless, they might be cheaper than ChatGPT API. 
+Alibaba Cloud account offers a Pay-As-You-Go subscription to use the API. Nevertheless, it might be cheaper than ChatGPT API. 
 
-Alibaba Cloud might offer you a Free Trial during the first 30 days. 
+Alibaba Cloud might offer you a Free Trial for different models during the first 30 days. 
 
 ![](/AlibabaImages/FreeTrial.JPG)
 
