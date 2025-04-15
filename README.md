@@ -19,6 +19,14 @@ To get started you will first need to fetch your Application ID, which can be fo
 
 ![](/AlibabaImages/AlibabaModelStudio.JPG)
 
+You can select any model for your application. Nevertheless, I recommend using an OpenSource Model if they are available (Time-limited Free Trial).
+
+![](/AlibabaImages/AlibabaModelStudio.JPG)
+
+Currently, the Qwen2.5 Series is on Free Trial (Please, confirm they are on Free Trial before using it). 
+
+![](/AlibabaImages/AlibabaModelStudio.JPG)
+
 ### Step 2: Inside your Alibaba Cloud account, create an API key
 To continue you will need to fetch your API key, which can be found in your account under `API-KEY` (or through [this direct link](https://bailian.console.alibabacloud.com/?apiKey=1)). Here, you can create a new API KEY (you will need this API KEY for the next step too).
 
@@ -45,7 +53,7 @@ After hitting on play, your Scene grabs the prompt you set inside `Your prompt` 
 
 There is an `Example` folder that contains a `Chat` scene. You can use this scene to interact directly with the API in a conversation. 
 
-![](/AlibabaImages/FreeTrial.JPG)
+![](/AlibabaImages/ChatScene.JPG)
 
 You must purchase credits in your Alibaba Cloud account to use the API. Nevertheless, they might be cheaper than ChatGPT API. 
 
@@ -55,6 +63,6 @@ Alibaba Cloud might offer you a Free Trial during the first 30 days.
 
 Alibaba Cloud might offer you certain Open-source models. 
 
-![](/AlibabaImages/FreeTrial.JPG)
+![](/AlibabaImages/FreeModels.JPG)
 
 > Note that Alibaba Cloud is a paid API, I recommend using [Gemini](https://github.com/UnityGameStudio/Gemini-Unity-Package) instead, which is free upon certain amount of requests.
