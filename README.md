@@ -36,15 +36,24 @@ Inside the package, you will find an `AlibabaManager.prefab` that you can drag i
 
 This plugin provides one main function called `SendPrompt(string promptText)`. This function contains an IEnumerator, `IEnumerator SendPromptRequestToDashScope()`, which sends a prompt to the Alibaba Cloud API and prints the response to the console by calling Debug.Log().
 
-Unity connects with Alibaba API through https://dashscope-intl.aliyuncs.com/api/v1/apps/{0}/completion. 
+There is another function called `SendChat()`. This function contains an IEnumerator, `IEnumerator SendChatRequestToDashScope(string message)`, which saves your session_id so you can keep a conversation with the Alibaba Cloud API. All the responses are printed in the console through a Debug.Log().
 
+Unity connects with Alibaba API through https://dashscope-intl.aliyuncs.com/api/v1/apps/{0}/completion. 
 
 # Usage
 After hitting on play, your Scene grabs the prompt you set inside `Your prompt` variable, and sends it to the Alibaba Cloud API. 
 
+There is an `Example` folder that contains a `Chat` scene. You can use this scene to interact directly with the API in a conversation. 
+
+![](/AlibabaImages/FreeTrial.JPG)
+
 You must purchase credits in your Alibaba Cloud account to use the API. Nevertheless, they might be cheaper than ChatGPT API. 
 
 Alibaba Cloud might offer you a Free Trial during the first 30 days. 
+
+![](/AlibabaImages/FreeTrial.JPG)
+
+Alibaba Cloud might offer you certain Open-source models. 
 
 ![](/AlibabaImages/FreeTrial.JPG)
 
