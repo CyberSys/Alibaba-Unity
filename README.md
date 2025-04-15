@@ -17,16 +17,19 @@ Alibaba Cloud provides an alternative to ChatGPT for Unity developers.
 ### Step 1: Login to your Alibaba Cloud account and create an application in your dashboard
 To get started you will first need to fetch your Application ID, which can be found in the Alibaba Cloud Platform under `My Application` (or through [this direct link](https://bailian.console.alibabacloud.com/#/app-center)). Here, you can create a new Application and copy the ID value (you will need this ID for the next step).
 
-![](/Images/Screenshot1.JPG)
+![](/AlibabaImages/AlibabaModelStudio.JPG)
 
 ### Step 2: Inside your Alibaba Cloud account, create an API key
 To continue you will need to fetch your API key, which can be found in your account under `API-KEY` (or through [this direct link](https://bailian.console.alibabacloud.com/?apiKey=1)). Here, you can create a new API KEY (you will need this API KEY for the next step too).
 
+![](/AlibabaImages/API.png)
+
+![](/AlibabaImages/AlibabaModelStudioAPIKEY.JPG)
 
 ### Step 3: Open the Unity Editor, configure the package, and start using Alibaba Cloud
 Inside the package, you will find an `AlibabaManager.prefab` that you can drag into your Scene. This prefab contains a `AlibabaAPI.cs` script attach to it. Add your API Secret Key inside the `API Key` field, and your application ID inside the `App ID`. And, you can start using Alibaba Cloud.
 
-![](/Images/Screenshot2.JPG)
+![](/AlibabaImages/AlibabaUI.JPG)
 
 
 # Functions
@@ -43,7 +46,6 @@ You must purchase credits in your Alibaba Cloud account to use the API. Neverthe
 
 Alibaba Cloud might offer you a Free Trial during the first 30 days. 
 
-![](/Images/Screenshot2.JPG)
-
+![](/AlibabaImages/FreeTrial.JPG)
 
 > Note that Alibaba Cloud is a paid API, I recommend using [Gemini](https://github.com/UnityGameStudio/Gemini-Unity-Package) instead, which is free upon certain amount of requests.
