@@ -19,11 +19,11 @@ To get started you will first need to fetch your Application ID, which can be fo
 
 ![](/AlibabaImages/AlibabaModelStudio.JPG)
 
-You can select any model for your application. Nevertheless, I recommend using an OpenSource Model if they are available (Time-limited Free Trial).
+You can select any model for your application. Nevertheless, I recommend using an "OpenSource" Model if they are available (Time-limited Free Trial).
 
 ![](/AlibabaImages/SelectModel.JPG)
 
-Currently, the Qwen2.5 Series is on Free Trial (Please, double check the model is on Free Trial before using it; otherwise you might be charged). 
+Currently, the Qwen2.5 Series is on Free Trial (Please, double check the model is on Free Trial before using it). 
 
 ![](/AlibabaImages/QwenModel.JPG)
 
@@ -66,3 +66,4 @@ Alibaba Cloud might offer you certain Open-source models.
 ![](/AlibabaImages/FreeModels.JPG)
 
 > Note that Alibaba Cloud is a paid API, I recommend using [Gemini](https://github.com/UnityGameStudio/Gemini-Unity-Package) instead, which is free upon certain amount of requests.
+> Read the pricing details before using any service. 
