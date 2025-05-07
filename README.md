@@ -30,7 +30,7 @@ Currently, the Qwen2.5 Series is on Free Trial (Please, double check the model i
 ### Step 2: Inside your Alibaba Cloud account, create an API key
 To continue you will need to fetch your API key, which can be found under `API-KEY` (or through [this direct link](https://bailian.console.alibabacloud.com/?tab=app#/api-key). Here, you can create a new API KEY (you will need this API KEY for the next step too).
 
-![](/AlibabaImages/API.png)
+![](/AlibabaImages/APIKEY.JPG)
 
 ![](/AlibabaImages/AlibabaModelStudioAPIKEY.JPG)
 
