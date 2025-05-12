@@ -11,7 +11,9 @@ Once you've downloaded the Unity package, you can drag the `AlibabaManager.prefa
 
 # Setup
 
-Alibaba Cloud provides an alternative to ChatGPT for Unity developers. 
+Alibaba Cloud provides an alternative to ChatGPT for Unity developers. Here's a quick guide to setting up the Qwen Model through Alibaba Cloud:
+
+- Setup Guide: [Watch the YouTube tutorial](https://youtu.be/zDNpAP_KSp0)
 
 
 ### Step 1: Login to your Alibaba Cloud account and create an application in your dashboard
